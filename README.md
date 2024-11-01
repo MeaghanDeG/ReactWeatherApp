@@ -7,10 +7,15 @@ Table of Contents
 -----------------
 
 Features
+
 Technologies
+
 Getting Started
+
 Available Scripts
+
 Configuration
+
 License
 
 
@@ -33,7 +38,9 @@ Getting Started
 ---------------
 -Prerequisites
 Node.js (v14 or higher) and npm installed on your machine.
+
 -Installation
+
 1)Clone the repository:
 
 bash
